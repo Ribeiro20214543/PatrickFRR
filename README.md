@@ -2,7 +2,6 @@
 - 👀 I’m interested in everything that involves data analysis and science, as well as full stack development.
 - 🌱 I'm currently studying Artificial Intelligence for Information Management and Complex Data Analysis, deepening my knowledge of Machine Learning and Deep Learning algorithms, Python, Excel and SQL, as well as other technological tools. 
 - :green_book: I am studying Information Management at the University of Paraná -UFPR.
-- 💞️ I'm looking for a first opportunity to apply the knowledge I've been acquiring.
 - 📫 How to find me: patrick_ribeiro@ymail.com or Linkedin https://www.linkedin.com/in/patrickfrribeiro/
 
 
