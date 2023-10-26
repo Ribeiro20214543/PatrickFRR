@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PatrickFRR
-- 👀 I’m interested in everything that involves data analysis and science, as well as full stack development.
-- 🌱 I'm currently studying Artificial Intelligence for Information Management and Complex Data Analysis, deepening my knowledge of Machine Learning and Deep Learning algorithms, Python, Excel and SQL, as well as other technological tools. 
-- :green_book: I am studying Information Management at the University of Paraná -UFPR.
+- Hi, I'm @PatrickFRR
+- I have a degree in Literature with a master's degree in Literary Theory and Criticism from UNICAMP.
+- Since 2021, I've been studying Information Management at the Federal University of Paraná - UFPR - where I develop skills in SQL, Python, Statistics, Artificial Intelligence, Process Mapping, Data Mining, Database, among other skills. 
+- I also study JavaScript, Angular, HTML, CSS, TypeScript, among other technologies. 
 - 📫 How to find me: patrick_ribeiro@ymail.com or Linkedin https://www.linkedin.com/in/patrickfrribeiro/
 
 
