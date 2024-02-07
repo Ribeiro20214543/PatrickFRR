@@ -17,7 +17,7 @@ Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, I
 📫: 
 - patrick_ribeiro@ymail.com / patrick.rribeiro@ufpr.br
 
-
+Estou animado para contribuir com projetos interessantes e desafiadores aqui no GitHub. Vamos construir algo incrível juntos! 🚀
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFRR&show_icons=true&theme=dracula)
 
