@@ -17,10 +17,6 @@ Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, I
 📫: 
 - patrick_ribeiro@ymail.com / patrick.rribeiro@ufpr.br
 
-➕: 
-- Linkedin: https://www.linkedin.com/in/patrickfrribeiro/
-- Currículo Lattes: http://lattes.cnpq.br/4518757281583952
-- Credly: https://www.credly.com/users/patrick-fernandes-rezende-ribeiro.897d4b63
 
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFRR&show_icons=true&theme=dracula)
