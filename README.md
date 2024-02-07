@@ -1,8 +1,26 @@
-- Hi, I'm @PatrickFRR
-- I have a degree in Literature with a master's degree in Literary Theory and Criticism from UNICAMP.
-- Since 2021, I've been studying Information Management at the Federal University of Paraná - UFPR - where I develop skills in SQL, Python, Statistics, Artificial Intelligence, Process Mapping, Data Mining, Database, among other skills. 
-- I also study JavaScript, Angular, HTML, CSS, TypeScript, among other technologies. 
-- 📫 How to find me: patrick_ribeiro@ymail.com or Linkedin https://www.linkedin.com/in/patrickfrribeiro/
+Olá, eu sou @PatrickFRR
+
+Minha formação:
+* Graduação em Letras  pela Universidade Católica de Santos (UniSantos)
+* Bacharel em Gestão da Informação  pela Universidade Federal do Paraná (UFPR)
+* Especialização em Metodologia de Ensino de LE pela Universidade de Brasília (UnB)
+* Mestrado em Teoria e Crítica pela Universidade Estadual de Campinas (UNICAMP)
+
+Participo de projetos de Iniciação Científica e de pós-graduação como pesquisador bolsista e voluntario:
+- Metodologias para Gestão da Informação
+- Infojus - Informação, Direito e Sociedade
+- Bases de Dados de Direito
+- Gestão da Informação Científica 
+
+Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
+
+📫: 
+- patrick_ribeiro@ymail.com / patrick.rribeiro@ufpr.br
+
+➕: 
+- Linkedin: https://www.linkedin.com/in/patrickfrribeiro/
+- Currículo Lattes: http://lattes.cnpq.br/4518757281583952
+- Credly: https://www.credly.com/users/patrick-fernandes-rezende-ribeiro.897d4b63
 
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFRR&show_icons=true&theme=dracula)
