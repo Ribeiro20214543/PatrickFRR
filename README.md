@@ -1,6 +1,7 @@
 Olá, eu sou @PatrickFRR
 
 Minha formação:
+* Doutorando em Gestão da Informação  pela Universidade Federal do Paraná (UFPR)
 * Graduação em Letras  pela Universidade Católica de Santos (UniSantos)
 * Bacharel em Gestão da Informação  pela Universidade Federal do Paraná (UFPR)
 * Especialização em Metodologia de Ensino de LE pela Universidade de Brasília (UnB)
@@ -9,7 +10,7 @@ Minha formação:
 Participo de projetos de Iniciação Científica e de pós-graduação como pesquisador bolsista e voluntario:
 - Metodologias para Gestão da Informação
 - Infojus - Informação, Direito e Sociedade
-- Bases de Dados de Direito
+- Bases de Dados de Direito - Parajas
 - Gestão da Informação Científica 
 
 Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
