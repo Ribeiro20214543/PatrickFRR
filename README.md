@@ -1,23 +1,39 @@
-Olá, eu sou @PatrickFRR
+Hello, I'm @PatrickFRR
 
-Minha formação:
-* Graduação em Letras  pela Universidade Católica de Santos (UniSantos)
-* Bacharel em Gestão da Informação  pela Universidade Federal do Paraná (UFPR)
-* Especialização em Metodologia de Ensino de LE pela Universidade de Brasília (UnB)
-* Mestrado em Teoria e Crítica pela Universidade Estadual de Campinas (UNICAMP)
+My academic background:
 
-Participo de projetos de Iniciação Científica e de pós-graduação como pesquisador bolsista e voluntario:
-- Metodologias para Gestão da Informação
-- Infojus - Informação, Direito e Sociedade
-- Bases de Dados de Direito
-- Gestão da Informação Científica 
+* PhD student in Information Management at the Federal University of Paraná (UFPR)
+* Master's degree in Theory and Criticism from the State University of Campinas (UNICAMP)
+* Bachelor's degree in Information Management from the Federal University of Paraná (UFPR)
+* Specialist in Foreign Language Teaching Methodology from the University of Brasília (UnB)
+* Undergraduate degree in Language and Literature from the Catholic University of Santos (UniSantos)
+  
 
-Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
+I participate in undergraduate and graduate research projects as a scholarship holder and volunteer researcher:
+
+* HarmonIA - 🤖 
+  - Natural Language Processing (NLP)
+  - Generative Artificial Intelligence (GenAI)
+  - Large Language Models (LLMs)
+
+* Infojus – Information, Law, and Society   
+  - Methodologies for Information Management📃
+  - Scientific Databases
+    - Parajás – Legal Databases ⚖ 
+  - Scientific Information Management
+
+🛠 Tools and technologies that I like:  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,r,tensorflow,sklearn,pytorch,sqlite,postgres,mongodb" />
+  </a>
+</p>
 
 📫: 
 - patrick_ribeiro@ymail.com / patrick.rribeiro@ufpr.br
 
-Estou animado para contribuir com projetos interessantes e desafiadores aqui no GitHub. Vamos construir algo incrível juntos! 🚀
+I'm excited to contribute to interesting and challenging projects here on GitHub. Let's build something amazing together! 🚀
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFRR&show_icons=true&theme=dracula)
 
